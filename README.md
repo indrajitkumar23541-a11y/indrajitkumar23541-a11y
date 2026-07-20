@@ -212,14 +212,14 @@
   <h3 style="color: #ff4785; font-family: monospace;">&gt; LEETCODE_METRICS</h3>
   <!-- LeetCode Stats -->
   <a href="https://leetcode.com/u/indrajitkumar23541/">
-    <img src="https://leetcode-stats-api.herokuapp.com/indrajitkumar23541?theme=Dark" width="600" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" width="100%" alt="LeetCode Stats"/>
   </a>
   
   <br/><br/>
 
   <h3 style="color: #b026ff; font-family: monospace;">&gt; SYSTEM_ACHIEVEMENTS</h3>
   <a href="https://github.com/indrajitkumar23541-a11y">
-    <img src="https://github-profile-trophy.vercel.app/?username=indrajitkumar23541-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies"/>
+    <img src="https://streak-stats.demolab.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
