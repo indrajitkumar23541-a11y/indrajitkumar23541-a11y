@@ -105,23 +105,48 @@
     <td width="30%" valign="top" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
       <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; TECH_CORE</h3>
       <div align="center">
-        <!-- Backend -->
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f0ff&color=161b22" alt="Python"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00&color=161b22" alt="Java"/>
+        <!-- Languages -->
+        <p style="color: #8b949e; font-size: 11px; margin: 2px 0;"><b>LANGUAGES</b></p>
         <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C&color=161b22" alt="C++"/>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f0ff&color=161b22" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00&color=161b22" alt="Java"/>
+        <br/>
         <!-- Frontend -->
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB&color=161b22" alt="React"/>
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>FRONTEND</b></p>
+        <img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB&color=161b22" alt="React"/>
         <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white&color=161b22" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF&color=161b22" alt="Vite"/>
         <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4&color=161b22" alt="Tailwind CSS"/>
+        <br/>
+        <!-- Backend & Cloud -->
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>BACKEND & CLOUD</b></p>
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white&color=161b22" alt="Express"/>
+        <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20&color=161b22" alt="Django"/>
+        <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&color=161b22" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28&color=161b22" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
+        <img src="https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4&color=161b22" alt="Google Cloud"/>
+        <br/>
         <!-- Database -->
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>DATABASES</b></p>
         <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1&color=161b22" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D&color=161b22" alt="Redis"/>
-        <!-- AI/Cloud -->
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1&color=161b22" alt="MySQL"/>
+        <br/>
+        <!-- AI/ML -->
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>AI & ML</b></p>
         <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white&color=161b22" alt="OpenAI"/>
+        <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&color=161b22" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&color=161b22" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=4285F4&color=161b22" alt="Gemini API"/>
+        <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white&color=161b22" alt="Ollama"/>
+        <br/>
+        <!-- Tools -->
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>DEVOPS & TOOLS</b></p>
         <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&color=161b22" alt="Docker"/>
-        <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&color=161b22" alt="Git"/>
       </div>
       <br/>
       <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; GITHUB_TELEMETRY</h3>
