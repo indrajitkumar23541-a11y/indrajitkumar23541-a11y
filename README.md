@@ -37,7 +37,7 @@
     <!-- LEFT COLUMN: ABOUT, FOCUS & EDUCATION          -->
     <!-- ============================================== -->
     <td width="30%" valign="top" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
-      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; SYS.ABOUT_ME</h3>
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; ABOUT ME</h3>
       <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
         Passionate Software Engineer specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.<br/><br/>
         I enjoy transforming innovative ideas into intelligent digital products using modern technologies.
@@ -47,14 +47,14 @@
         <img src="assets/focus.svg" width="100%" alt="Current Focus"/>
       </div>
       <br/>
-      <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; SYS.EDUCATION</h3>
+      <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; EDUCATION</h3>
       <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
         <b>B.Tech Computer Science Engineering</b><br/>
         Jagannath University Jaipur<br/>
         <span style="color: #8b949e; font-size: 12px;">Expected Graduation: July 2027</span>
       </p>
       <br/>
-      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; SYS.CERTIFICATIONS</h3>
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; CERTIFICATIONS</h3>
       <p align="left" style="color: #c9d1d9; font-size: 13px; line-height: 1.5;">
         🏅 <b>PCAP: Programming Essentials in Python</b><br/>
         <span style="color: #8b949e; font-size: 12px;">Jul 2024</span><br/><br/>
