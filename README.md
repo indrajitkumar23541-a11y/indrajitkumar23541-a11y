@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Indrajit Kumar Hero Banner"/>
+  <img src="assets/hacker_banner.png" width="100%" alt="Indrajit Kumar Hero Banner" style="border-radius: 12px;"/>
   
   <br/>
   <br/>
@@ -31,23 +31,37 @@
 </div>
 <br/>
 
-<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117;">
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #060913;">
   <tr style="border: none;">
     <!-- ============================================== -->
-    <!-- LEFT COLUMN: ABOUT & EDUCATION                 -->
+    <!-- LEFT COLUMN: ABOUT, FOCUS & EDUCATION          -->
     <!-- ============================================== -->
-    <td width="30%" valign="top" style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117;">
+    <td width="30%" valign="top" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
       <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; SYS.ABOUT_ME</h3>
       <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
         Passionate Software Engineer specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.<br/><br/>
         I enjoy transforming innovative ideas into intelligent digital products using modern technologies.
       </p>
       <br/>
+      <div align="center">
+        <img src="assets/focus.svg" width="100%" alt="Current Focus"/>
+      </div>
+      <br/>
       <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; SYS.EDUCATION</h3>
       <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
         <b>B.Tech Computer Science Engineering</b><br/>
         Jagannath University Jaipur<br/>
         <span style="color: #8b949e; font-size: 12px;">Expected Graduation: July 2027</span>
+      </p>
+      <br/>
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; SYS.CERTIFICATIONS</h3>
+      <p align="left" style="color: #c9d1d9; font-size: 13px; line-height: 1.5;">
+        🏅 <b>PCAP: Programming Essentials in Python</b><br/>
+        <span style="color: #8b949e; font-size: 12px;">Jul 2024</span><br/><br/>
+        🛡️ <b>Introduction to Cybersecurity</b><br/>
+        <span style="color: #8b949e; font-size: 12px;">Jun 2025</span><br/><br/>
+        📜 <b>SWOC 2026 - Certificate of Appreciation</b><br/>
+        <span style="color: #8b949e; font-size: 12px;">Feb 2026</span>
       </p>
       <br/>
       <h3 align="center" style="color: #ff4785; font-family: monospace;">&gt; SYS.LOCATION</h3>
@@ -58,25 +72,37 @@
     <!-- ============================================== -->
     <!-- CENTER COLUMN: FEATURED PROJECTS               -->
     <!-- ============================================== -->
-    <td width="40%" valign="top" align="center" style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117;">
+    <td width="40%" valign="top" align="center" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
       <h3 style="color: #ffffff; font-family: monospace;">&gt; DEPLOYED_ASSETS</h3>
       <br/>
-      <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
-        <img src="assets/projects/klyro.svg" width="100%" alt="KLYRO Project"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
-        <img src="assets/projects/indra-ai.svg" width="100%" alt="Indra AI Project"/>
-      </a>
-      <br/><br/>
-      <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
-        <img src="assets/projects/promptly-ai.svg" width="100%" alt="Promptly AI Project"/>
-      </a>
+      <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
+        <h4 style="color: #00f0ff; margin: 0 0 5px 0;">KLYRO</h4>
+        <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI-Powered Hybrid E-Commerce Platform</p>
+        <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
+          <img src="assets/projects/klyro.png" width="100%" alt="KLYRO Project"/>
+        </a>
+      </div>
+      <br/>
+      <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
+        <h4 style="color: #b026ff; margin: 0 0 5px 0;">Indra AI</h4>
+        <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Workflow Automation Platform</p>
+        <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
+          <img src="assets/projects/indra_ai.png" width="100%" alt="Indra AI Project"/>
+        </a>
+      </div>
+      <br/>
+      <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
+        <h4 style="color: #ff4785; margin: 0 0 5px 0;">Promptly AI</h4>
+        <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Image Generation Studio</p>
+        <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
+          <img src="assets/projects/promptly_ai.png" width="100%" alt="Promptly AI Project"/>
+        </a>
+      </div>
     </td>
     <!-- ============================================== -->
     <!-- RIGHT COLUMN: TECH STACK & STATS               -->
     <!-- ============================================== -->
-    <td width="30%" valign="top" style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117;">
+    <td width="30%" valign="top" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
       <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; TECH_CORE</h3>
       <div align="center">
         <!-- Backend -->
