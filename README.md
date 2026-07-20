@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_cropped.svg" width="100%" alt="Indrajit Kumar Hero Banner"/>
+  <img src="assets/hacker_banner.png" width="100%" alt="Indrajit Kumar Hero Banner" style="border-radius: 12px;"/>
   
   <br/>
   <br/>
