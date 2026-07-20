@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Real-world projects in full stack development while improving<br>my practical skills and core fundamentals.<br>👯 I’m looking to collaborate on<br>Full-stack and real-world projects, along with open-source<br>contributions in web development.<br>🤝 I’m looking for help with<br>System design, backend scaling, and understanding how<br>real-world products are built and deployed.<br>🌱 I’m currently learning<br>Data Structures & Algorithms, core Computer Science<br>fundamentals, and improving my full-stack development skills<br>with a focus on strong problem-solving abilities.<br>💬 Ask me about<br>Web development, full-stack projects, and problem-solving in <br>programming.<br>⚡ Fun fact<br>I prefer learning by building rather than just watching tutorials.
+Software Engineer, Full-Stack Developer, and Product Builder passionate about transforming ideas into scalable digital products through 
+AI Integration, modern technologies, problem-solving, and a strong focus on performance, user experience, and innovation.
 
 
 ## 🌐 Socials:
