@@ -42,24 +42,19 @@
         Passionate Software Engineer specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.<br/><br/>
         I enjoy transforming innovative ideas into intelligent digital products using modern technologies.
       </p>
-      
       <br/>
-
       <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; SYS.EDUCATION</h3>
       <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
         <b>B.Tech Computer Science Engineering</b><br/>
         Jagannath University Jaipur<br/>
         <span style="color: #8b949e; font-size: 12px;">Expected Graduation: July 2027</span>
       </p>
-
       <br/>
-
       <h3 align="center" style="color: #ff4785; font-family: monospace;">&gt; SYS.LOCATION</h3>
       <p align="center" style="color: #c9d1d9; font-size: 14px;">
         📍 Bihar, India
       </p>
     </td>
-
     <!-- ============================================== -->
     <!-- CENTER COLUMN: FEATURED PROJECTS               -->
     <!-- ============================================== -->
@@ -78,7 +73,6 @@
         <img src="assets/projects/promptly-ai.svg" width="100%" alt="Promptly AI Project"/>
       </a>
     </td>
-
     <!-- ============================================== -->
     <!-- RIGHT COLUMN: TECH STACK & STATS               -->
     <!-- ============================================== -->
@@ -103,7 +97,6 @@
         <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&color=161b22" alt="Docker"/>
         <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
       </div>
-
       <br/>
       <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; GITHUB_TELEMETRY</h3>
       <div align="center">
