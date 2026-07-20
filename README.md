@@ -1,28 +1,174 @@
-# 💫 About Me:
-Software Engineer, Full-Stack Developer, and Product Builder passionate about transforming ideas into scalable digital products through 
-AI Integration, modern technologies, problem-solving, and a strong focus on performance, user experience, and innovation.
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="Indrajit Kumar Hero Banner"/>
+  
+  <br/>
+  <br/>
 
+  <!-- Glowing Social Badges -->
+  <a href="https://github.com/indrajitkumar23541-a11y">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0d1117&color=161b22" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/indrajit-kumar-221284218/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=b026ff&labelColor=0d1117&color=161b22" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/indrajitkumar23541/">
+    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff4785&labelColor=0d1117&color=161b22" alt="LeetCode"/>
+  </a>
+  <a href="https://x.com/INDRAJI58504547">
+    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=0d1117&color=161b22" alt="X"/>
+  </a>
+  <a href="https://instagram.com/tech_arcane.wizard">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=b026ff&labelColor=0d1117&color=161b22" alt="Instagram"/>
+  </a>
+  <a href="mailto:indrajitkumar23541@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4785&labelColor=0d1117&color=161b22" alt="Email"/>
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100067908091448) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tech_arcane.wizard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/indrajit-kumar-221284218/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tech_arcane_wizard) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@INDRAJI58504547) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indrajitkumar23541@gmail.com) 
+<br/>
+<div align="center">
+  <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
+</div>
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=indrajitkumar23541-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=indrajitkumar23541-a11y&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #0d1117;">
+  <tr style="border: none;">
+    <!-- ============================================== -->
+    <!-- LEFT COLUMN: ABOUT & EDUCATION                 -->
+    <!-- ============================================== -->
+    <td width="30%" valign="top" style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117;">
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; SYS.ABOUT_ME</h3>
+      <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+        Passionate Software Engineer specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.<br/><br/>
+        I enjoy transforming innovative ideas into intelligent digital products using modern technologies.
+      </p>
+      
+      <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=indrajitkumar23541-a11y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+      <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; SYS.EDUCATION</h3>
+      <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+        <b>B.Tech Computer Science Engineering</b><br/>
+        Jagannath University Jaipur<br/>
+        <span style="color: #8b949e; font-size: 12px;">Expected Graduation: July 2027</span>
+      </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+      <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=indrajitkumar23541-a11y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+      <h3 align="center" style="color: #ff4785; font-family: monospace;">&gt; SYS.LOCATION</h3>
+      <p align="center" style="color: #c9d1d9; font-size: 14px;">
+        📍 Bihar, India
+      </p>
+    </td>
 
----
-[![](https://visitcount.itsvg.in/api?id=indrajitkumar23541-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
+    <!-- ============================================== -->
+    <!-- CENTER COLUMN: FEATURED PROJECTS               -->
+    <!-- ============================================== -->
+    <td width="40%" valign="top" align="center" style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117;">
+      <h3 style="color: #ffffff; font-family: monospace;">&gt; DEPLOYED_ASSETS</h3>
+      <br/>
+      <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
+        <img src="assets/projects/klyro.svg" width="100%" alt="KLYRO Project"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
+        <img src="assets/projects/indra-ai.svg" width="100%" alt="Indra AI Project"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
+        <img src="assets/projects/promptly-ai.svg" width="100%" alt="Promptly AI Project"/>
+      </a>
+    </td>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    <!-- ============================================== -->
+    <!-- RIGHT COLUMN: TECH STACK & STATS               -->
+    <!-- ============================================== -->
+    <td width="30%" valign="top" style="border: 1px solid #30363d; padding: 20px; border-radius: 12px; background: #0d1117;">
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; TECH_CORE</h3>
+      <div align="center">
+        <!-- Backend -->
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f0ff&color=161b22" alt="Python"/>
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00&color=161b22" alt="Java"/>
+        <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C&color=161b22" alt="C++"/>
+        <!-- Frontend -->
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB&color=161b22" alt="React"/>
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white&color=161b22" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4&color=161b22" alt="Tailwind CSS"/>
+        <!-- Database -->
+        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1&color=161b22" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D&color=161b22" alt="Redis"/>
+        <!-- AI/Cloud -->
+        <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white&color=161b22" alt="OpenAI"/>
+        <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&color=161b22" alt="Docker"/>
+        <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
+      </div>
+
+      <br/>
+      <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; GITHUB_TELEMETRY</h3>
+      <div align="center">
+        <a href="https://github.com/indrajitkumar23541-a11y">
+          <img src="https://github-readme-stats.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+        </a>
+        <br/>
+        <a href="https://github.com/indrajitkumar23541-a11y">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<div align="center">
+  <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
+</div>
+<br/>
+
+<!-- ============================================== -->
+<!-- BOTTOM SECTION: GRAPH & LEETCODE & TROPHIES    -->
+<!-- ============================================== -->
+<div align="center">
+  <h3 style="color: #00f0ff; font-family: monospace;">&gt; CODE_FREQUENCY_ANALYSIS</h3>
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/indrajitkumar23541-a11y">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajitkumar23541-a11y&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
+
+  <br/><br/>
+  
+  <h3 style="color: #ff4785; font-family: monospace;">&gt; LEETCODE_METRICS</h3>
+  <!-- LeetCode Stats -->
+  <a href="https://leetcode.com/u/indrajitkumar23541/">
+    <img src="https://leetcode-stats-api.herokuapp.com/indrajitkumar23541?theme=Dark" width="600" alt="LeetCode Stats"/>
+  </a>
+  
+  <br/><br/>
+
+  <h3 style="color: #b026ff; font-family: monospace;">&gt; SYSTEM_ACHIEVEMENTS</h3>
+  <a href="https://github.com/indrajitkumar23541-a11y">
+    <img src="https://github-profile-trophy.vercel.app/?username=indrajitkumar23541-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies"/>
+  </a>
+  
+  <br/><br/>
+
+  <h3 style="color: #00f0ff; font-family: monospace;">&gt; NETWORK_CONTRIBUTIONS</h3>
+  <!-- Snake Animation Placeholder (Generated via Action) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br/><br/>
+
+  <h3 style="color: #ffffff; font-family: monospace;">&gt; DAILY_INSPIRATION</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
+
+  <br/><br/>
+
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=indrajitkumar23541-a11y&label=PROFILE_VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views"/>
+  </p>
+</div>

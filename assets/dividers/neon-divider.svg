@@ -1,0 +1,22 @@
+<svg width="800" height="40" viewBox="0 0 800 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Central line -->
+  <line x1="100" y1="20" x2="700" y2="20" stroke="#1a1a24" stroke-width="2"/>
+  
+  <!-- Glowing neon center segment -->
+  <line x1="300" y1="20" x2="500" y2="20" stroke="#b026ff" stroke-width="3" filter="url(#glow)"/>
+  
+  <!-- Decorative diamonds -->
+  <polygon points="400,15 405,20 400,25 395,20" fill="#00f0ff" filter="url(#glow)"/>
+  <polygon points="100,17 103,20 100,23 97,20" fill="#333"/>
+  <polygon points="700,17 703,20 700,23 697,20" fill="#333"/>
+</svg>
