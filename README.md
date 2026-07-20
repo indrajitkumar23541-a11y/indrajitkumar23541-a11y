@@ -219,7 +219,7 @@
 
   <h3 style="color: #b026ff; font-family: monospace;">&gt; SYSTEM_ACHIEVEMENTS</h3>
   <a href="https://github.com/indrajitkumar23541-a11y">
-    <img src="https://streak-stats.demolab.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
@@ -227,9 +227,9 @@
   <h3 style="color: #00f0ff; font-family: monospace;">&gt; NETWORK_CONTRIBUTIONS</h3>
   <!-- Snake Animation Placeholder (Generated via Action) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/github-contribution-grid-snake.svg">
   </picture>
 
   <br/><br/>
