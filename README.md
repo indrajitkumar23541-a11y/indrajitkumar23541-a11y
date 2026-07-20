@@ -180,11 +180,11 @@
       <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; GITHUB_TELEMETRY</h3>
       <div align="center">
         <a href="https://github.com/indrajitkumar23541-a11y">
-          <img src="https://github-readme-stats.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
         </a>
         <br/>
         <a href="https://github.com/indrajitkumar23541-a11y">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages"/>
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages"/>
         </a>
       </div>
     </td>
