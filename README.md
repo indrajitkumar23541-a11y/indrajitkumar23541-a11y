@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Indrajit Kumar Hero Banner" style="border-radius: 12px;"/>
+  <img src="assets/banner2.png" width="100%" alt="Indrajit Kumar Hero Banner" style="border-radius: 12px;"/>
   
   <br/>
   <br/>
