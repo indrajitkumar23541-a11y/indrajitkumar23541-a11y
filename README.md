@@ -78,25 +78,31 @@
       <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
         <h4 style="color: #00f0ff; margin: 0 0 5px 0;">KLYRO</h4>
         <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI-Powered Hybrid E-Commerce Platform</p>
-        <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
-          <img src="assets/projects/klyro.png" width="100%" alt="KLYRO Project"/>
-        </a>
+        <div align="center">
+          <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
+            <img src="assets/projects/klyro.png" width="95%" alt="KLYRO Project" style="border-radius: 6px;"/>
+          </a>
+        </div>
       </div>
       <br/>
       <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
         <h4 style="color: #b026ff; margin: 0 0 5px 0;">Indra AI</h4>
         <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Workflow Automation Platform</p>
-        <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
-          <img src="assets/projects/indra_ai.png" width="100%" alt="Indra AI Project"/>
-        </a>
+        <div align="center">
+          <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
+            <img src="assets/projects/indra_ai.png" width="95%" alt="Indra AI Project" style="border-radius: 6px;"/>
+          </a>
+        </div>
       </div>
       <br/>
       <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
         <h4 style="color: #ff4785; margin: 0 0 5px 0;">Promptly AI</h4>
         <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Image Generation Studio</p>
-        <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
-          <img src="assets/projects/promptly_ai.png" width="100%" alt="Promptly AI Project"/>
-        </a>
+        <div align="center">
+          <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
+            <img src="assets/projects/promptly_ai.png" width="95%" alt="Promptly AI Project" style="border-radius: 6px;"/>
+          </a>
+        </div>
       </div>
     </td>
     <!-- ============================================== -->
