@@ -146,16 +146,14 @@ Technology is not just about code, it's about creating opportunities, solving re
 </td>
 <td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #00f0ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
-☁️ DevOps, Cloud & Tools
+🛠️ DevOps & Tools
 </p>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&color=161b22" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4&color=161b22" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28&color=161b22" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&color=161b22" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&color=161b22" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC&color=161b22" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Android_Studio-0d1117?style=flat-square&logo=androidstudio&logoColor=3DDC84&color=161b22" alt="Android Studio"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&color=161b22" alt="Docker"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28&color=161b22" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white&color=161b22" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7&color=161b22" alt="Render"/>
 <img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7&color=161b22" alt="Netlify"/>
