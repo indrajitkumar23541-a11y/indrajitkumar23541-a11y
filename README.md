@@ -98,14 +98,19 @@ Technology is not just about code, it's about creating opportunities, solving re
 </p>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white&color=161b22" alt="Express"/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&color=161b22" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20&color=161b22" alt="Django"/>
 <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white&color=161b22" alt="Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688&color=161b22" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098&color=161b22" alt="GraphQL"/>
 <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white&color=161b22" alt="Socket.io"/>
 <img src="https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=websocket&logoColor=white&color=161b22" alt="WebSocket"/>
 <img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square&color=161b22" alt="REST API"/>
-<img src="https://img.shields.io/badge/JWT_Auth-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white&color=161b22" alt="JWT"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white&color=161b22" alt="JWT"/>
+<img src="https://img.shields.io/badge/Firebase_Auth-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28&color=161b22" alt="Firebase Auth"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28&color=161b22" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E&color=161b22" alt="Supabase"/>
+<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4&color=161b22" alt="Google Cloud"/>
 </td>
 </tr>
 <tr style="background-color: #0a0e1c;">
@@ -125,17 +130,19 @@ Technology is not just about code, it's about creating opportunities, solving re
 <p style="color: #b026ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 🤖 AI & Machine Learning
 </p>
+<img src="https://img.shields.io/badge/AI_Integration-0d1117?style=flat-square&color=161b22" alt="AI Integration"/>
+<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&color=161b22" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&color=161b22" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/LLM_Integration-0d1117?style=flat-square&color=161b22" alt="LLM Integration"/>
 <img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&logo=openai&logoColor=white&color=161b22" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Google_Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=161b22" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Google_Gemini_API-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2&color=161b22" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Grok_API-0d1117?style=flat-square&logo=x&logoColor=white&color=161b22" alt="Grok"/>
 <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white&color=161b22" alt="Ollama"/>
 <img src="https://img.shields.io/badge/Llama_3-0d1117?style=flat-square&logo=meta&logoColor=0467DF&color=161b22" alt="Llama 3"/>
-<img src="https://img.shields.io/badge/Qwen-0d1117?style=flat-square&color=161b22" alt="Qwen"/>
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=white&color=161b22" alt="LangChain"/>
 <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&color=161b22" alt="RAG"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&color=161b22" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&color=161b22" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Qwen-0d1117?style=flat-square&color=161b22" alt="Qwen"/>
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&color=161b22" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&color=161b22" alt="PyTorch"/>
 </td>
 <td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #00f0ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
