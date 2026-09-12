@@ -1,22 +1,18 @@
 <div align="center">
 <img src="assets/banner2.png" width="100%" alt="Indrajit Kumar Hero Banner" style="border-radius: 12px;"/>
 
-<br/><br/>
-
 <!-- Glowing Social Badges -->
+<p align="center" style="margin: 8px 0 4px 0;">
 <a href="https://github.com/indrajitkumar23541-a11y"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0d1117&color=161b22" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/indrajit-kumar-221284218/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=b026ff&labelColor=0d1117&color=161b22" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/indrajitkumar23541/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff4785&labelColor=0d1117&color=161b22" alt="LeetCode"/></a>
 <a href="https://x.com/INDRAJI58504547"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=0d1117&color=161b22" alt="X"/></a>
 <a href="https://instagram.com/tech_arcane.wizard"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=b026ff&labelColor=0d1117&color=161b22" alt="Instagram"/></a>
 <a href="mailto:indrajitkumar23541@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4785&labelColor=0d1117&color=161b22" alt="Email"/></a>
-</div>
+</p>
 
-<br/>
-<div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- SECTION 1: ABOUT ME & PHILOSOPHY               -->
@@ -54,11 +50,9 @@ Technology is not just about code, it's about creating opportunities, solving re
 </tr>
 </table>
 
-<br/>
 <div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- SECTION 2: TECH STACK                          -->
@@ -162,11 +156,9 @@ Technology is not just about code, it's about creating opportunities, solving re
 </tr>
 </table>
 
-<br/>
 <div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- SECTION 3: FEATURED PROJECTS                   -->
@@ -279,11 +271,9 @@ Immersive web journey reviving vintage Indian nostalgia through curated retro mu
 </tr>
 </table>
 
-<br/>
 <div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- SECTION 4: MORE REPOSITORIES & CORE CODE       -->
@@ -354,11 +344,9 @@ Python programming concepts, automation scripting modules, and foundational lear
 </tr>
 </table>
 
-<br/>
 <div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- SECTION 5: GITHUB TELEMETRY                    -->
@@ -383,11 +371,9 @@ Python programming concepts, automation scripting modules, and foundational lear
 </tr>
 </table>
 
-<br/>
 <div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- SECTION 6: ACHIEVEMENTS & METRICS              -->
@@ -434,11 +420,9 @@ Python programming concepts, automation scripting modules, and foundational lear
 </tr>
 </table>
 
-<br/>
 <div align="center">
 <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
 </div>
-<br/>
 
 <!-- ============================================== -->
 <!-- FOOTER                                         -->
