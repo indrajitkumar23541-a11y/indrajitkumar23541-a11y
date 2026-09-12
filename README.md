@@ -373,10 +373,10 @@ Python programming concepts, automation scripting modules, and foundational lear
 <td align="center" style="padding: 18px 10px; border: 1px solid #1a233a;">
 <p align="center" style="margin: 0;">
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; vertical-align: top; margin: 6px;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" style="max-width: 100%; vertical-align: top; margin: 6px;"/>
 </a>
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 100%; vertical-align: top; margin: 6px;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" style="max-width: 100%; vertical-align: top; margin: 6px;"/>
 </a>
 </p>
 </td>
@@ -428,7 +428,7 @@ Python programming concepts, automation scripting modules, and foundational lear
 </td>
 <td colspan="2" width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; vertical-align: middle;">
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" style="max-width: 100%; border-radius: 8px;"/>
+<img src="https://streak-stats.demolab.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="100%" style="max-width: 100%; border-radius: 8px;"/>
 </a>
 </td>
 </tr>
