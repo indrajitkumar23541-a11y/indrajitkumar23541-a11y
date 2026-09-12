@@ -31,87 +31,106 @@
 </div>
 <br/>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1f2438; border-radius: 12px; background-color: #0a0e1c;">
-  <tr>
-    <td style="padding: 24px;">
-      <h2 align="center" style="color: #00f0ff; font-family: monospace; letter-spacing: 2px; margin-bottom: 20px;">ABOUT ME</h2>
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <!-- Left side: Bio & Focus -->
-          <td width="55%" valign="top" style="padding-right: 20px;">
-            <p style="color: #c9d1d9; font-size: 15px; line-height: 1.7;">
-              Passionate <b>Software Engineer</b> specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.<br/><br/>
-              I enjoy transforming innovative ideas into intelligent digital products using modern technologies.
-            </p>
-            <br/>
-            <div align="center">
-              <img src="assets/focus.svg" width="100%" alt="Current Focus"/>
-            </div>
-          </td>
-          <!-- Right side: Education & Certifications & Location -->
-          <td width="45%" valign="top" style="border-left: 1px solid #1f2438; padding-left: 20px;">
-            <h4 style="color: #b026ff; font-family: monospace; margin-top: 0;">EDUCATION</h4>
-            <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
-              🎓 <b>B.Tech Computer Science Engineering</b><br/>
-              Jagannath University Jaipur<br/>
-              <span style="color: #8b949e; font-size: 12px;">Expected Graduation: July 2027</span>
-            </p>
-            
-            <h4 style="color: #00f0ff; font-family: monospace; margin-top: 15px;">CERTIFICATIONS</h4>
-            <p style="color: #c9d1d9; font-size: 13px; line-height: 1.5;">
-              🏅 <b>PCAP: Programming Essentials in Python</b> <span style="color: #8b949e; font-size: 12px;">(Jul 2024)</span><br/>
-              🛡️ <b>Introduction to Cybersecurity</b> <span style="color: #8b949e; font-size: 12px;">(Jun 2025)</span><br/>
-              📜 <b>SWOC 2026 - Certificate of Appreciation</b> <span style="color: #8b949e; font-size: 12px;">(Feb 2026)</span>
-            </p>
-            
-            <h4 style="color: #ff4785; font-family: monospace; margin-top: 15px;">SYS.LOCATION</h4>
-            <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 0;">
-              📍 Bihar, India
-            </p>
-          </td>
-        </tr>
-      </table>
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #060913;">
+  <tr style="border: none;">
+    <!-- ============================================== -->
+    <!-- LEFT COLUMN: ABOUT, FOCUS & EDUCATION          -->
+    <!-- ============================================== -->
+    <td width="30%" valign="top" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; ABOUT ME</h3>
+      <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+        Passionate Software Engineer specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.<br/><br/>
+        I enjoy transforming innovative ideas into intelligent digital products using modern technologies.
+      </p>
+      <br/>
+      <div align="center">
+        <img src="assets/focus.svg" width="100%" alt="Current Focus"/>
+      </div>
+      <br/>
+      <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; EDUCATION</h3>
+      <p align="left" style="color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+        <b>B.Tech Computer Science Engineering</b><br/>
+        Jagannath University Jaipur<br/>
+        <span style="color: #8b949e; font-size: 12px;">Expected Graduation: July 2027</span>
+      </p>
+      <br/>
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; CERTIFICATIONS</h3>
+      <p align="left" style="color: #c9d1d9; font-size: 13px; line-height: 1.5;">
+        🏅 <b>PCAP: Programming Essentials in Python</b><br/>
+        <span style="color: #8b949e; font-size: 12px;">Jul 2024</span><br/><br/>
+        🛡️ <b>Introduction to Cybersecurity</b><br/>
+        <span style="color: #8b949e; font-size: 12px;">Jun 2025</span><br/><br/>
+        📜 <b>SWOC 2026 - Certificate of Appreciation</b><br/>
+        <span style="color: #8b949e; font-size: 12px;">Feb 2026</span>
+      </p>
+      <br/>
+      <h3 align="center" style="color: #ff4785; font-family: monospace;">&gt; SYS.LOCATION</h3>
+      <p align="center" style="color: #c9d1d9; font-size: 14px;">
+        📍 Bihar, India
+      </p>
     </td>
-  </tr>
-</table>
-
-<br/>
-<div align="center">
-  <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
-</div>
-<br/>
-
-<!-- ============================================== -->
-<!-- SECTION 2: TECH_CORE                           -->
-<!-- ============================================== -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1f2438; border-radius: 12px; background-color: #0a0e1c;">
-  <tr>
-    <td style="padding: 24px;">
-      <h2 align="center" style="color: #00f0ff; font-family: monospace; letter-spacing: 2px; margin-bottom: 20px;">TECH_CORE</h2>
-      
+    <!-- ============================================== -->
+    <!-- CENTER COLUMN: FEATURED PROJECTS               -->
+    <!-- ============================================== -->
+    <td width="40%" valign="top" align="center" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
+      <h3 style="color: #ffffff; font-family: monospace;">&gt; DEPLOYED_ASSETS</h3>
+      <br/>
+      <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
+        <h4 style="color: #00f0ff; margin: 0 0 5px 0;">KLYRO</h4>
+        <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI-Powered Hybrid E-Commerce Platform</p>
+        <div align="center">
+          <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
+            <img src="assets/projects/klyro.png" width="95%" alt="KLYRO Project" style="border-radius: 6px;"/>
+          </a>
+        </div>
+      </div>
+      <br/>
+      <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
+        <h4 style="color: #b026ff; margin: 0 0 5px 0;">Indra AI</h4>
+        <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Workflow Automation Platform</p>
+        <div align="center">
+          <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
+            <img src="assets/projects/indra_ai.png" width="95%" alt="Indra AI Project" style="border-radius: 6px;"/>
+          </a>
+        </div>
+      </div>
+      <br/>
+      <div align="left" style="background: #111526; padding: 10px; border-radius: 8px; border: 1px solid #1f2438;">
+        <h4 style="color: #ff4785; margin: 0 0 5px 0;">Promptly AI</h4>
+        <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Image Generation Studio</p>
+        <div align="center">
+          <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
+            <img src="assets/projects/promptly_ai.png" width="95%" alt="Promptly AI Project" style="border-radius: 6px;"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <!-- ============================================== -->
+    <!-- RIGHT COLUMN: TECH STACK & STATS               -->
+    <!-- ============================================== -->
+    <td width="30%" valign="top" style="border: 1px solid #1f2438; padding: 20px; border-radius: 12px; background: #0a0e1c;">
+      <h3 align="center" style="color: #00f0ff; font-family: monospace;">&gt; TECH_CORE</h3>
       <div align="center">
         <!-- Languages -->
-        <p style="color: #8b949e; font-size: 12px; margin: 6px 0;"><b>LANGUAGES</b></p>
+        <p style="color: #8b949e; font-size: 11px; margin: 2px 0;"><b>LANGUAGES</b></p>
         <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C&color=161b22" alt="C"/>
         <img src="https://img.shields.io/badge/C++_(DSA)-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C&color=161b22" alt="C++ (DSA)"/>
         <img src="https://img.shields.io/badge/JavaScript_(ES6+)-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&color=161b22" alt="JavaScript (ES6+)"/>
         <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f0ff&color=161b22" alt="Python"/>
         <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00&color=161b22" alt="Java"/>
         <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1&color=161b22" alt="SQL"/>
-        <br/><br/>
-
+        <br/>
         <!-- Frontend -->
-        <p style="color: #8b949e; font-size: 12px; margin: 6px 0;"><b>FRONTEND</b></p>
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>FRONTEND</b></p>
         <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26&color=161b22" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6&color=161b22" alt="CSS3"/>
         <img src="https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB&color=161b22" alt="React.js"/>
         <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white&color=161b22" alt="Next.js"/>
         <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF&color=161b22" alt="Vite"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4&color=161b22" alt="Tailwind CSS"/>
-        <br/><br/>
-
+        <br/>
         <!-- Backend & Cloud -->
-        <p style="color: #8b949e; font-size: 12px; margin: 6px 0;"><b>BACKEND & CLOUD</b></p>
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>BACKEND & CLOUD</b></p>
         <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933&color=161b22" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white&color=161b22" alt="Express.js"/>
         <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20&color=161b22" alt="Django"/>
@@ -126,18 +145,16 @@
         <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E&color=161b22" alt="Supabase"/>
         <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=232F3E&color=161b22" alt="AWS"/>
         <img src="https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4&color=161b22" alt="Google Cloud"/>
-        <br/><br/>
-
+        <br/>
         <!-- Databases -->
-        <p style="color: #8b949e; font-size: 12px; margin: 6px 0;"><b>DATABASES</b></p>
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>DATABASES</b></p>
         <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1&color=161b22" alt="MySQL"/>
         <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1&color=161b22" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57&color=161b22" alt="SQLite"/>
         <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248&color=161b22" alt="MongoDB"/>
-        <br/><br/>
-
+        <br/>
         <!-- AI/ML -->
-        <p style="color: #8b949e; font-size: 12px; margin: 6px 0;"><b>AI & ML</b></p>
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>AI & ML</b></p>
         <img src="https://img.shields.io/badge/AI_Integration-0d1117?style=flat-square&color=161b22" alt="AI Integration"/>
         <img src="https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&color=161b22" alt="Generative AI"/>
         <img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&color=161b22" alt="Prompt Engineering"/>
@@ -151,10 +168,9 @@
         <img src="https://img.shields.io/badge/Qwen-0d1117?style=flat-square&color=161b22" alt="Qwen"/>
         <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&color=161b22" alt="TensorFlow"/>
         <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&color=161b22" alt="PyTorch"/>
-        <br/><br/>
-
+        <br/>
         <!-- Tools -->
-        <p style="color: #8b949e; font-size: 12px; margin: 6px 0;"><b>DEVOPS & TOOLS</b></p>
+        <p style="color: #8b949e; font-size: 11px; margin: 10px 0 2px 0;"><b>DEVOPS & TOOLS</b></p>
         <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032&color=161b22" alt="Git"/>
         <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&color=161b22" alt="GitHub"/>
         <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC&color=161b22" alt="VS Code"/>
@@ -166,86 +182,17 @@
         <img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7&color=161b22" alt="Netlify"/>
         <img src="https://img.shields.io/badge/MySQL_Workbench-0d1117?style=flat-square&logo=mysql&logoColor=4479A1&color=161b22" alt="MySQL Workbench"/>
       </div>
-
-      <br/><br/>
-      <h3 align="center" style="color: #b026ff; font-family: monospace;">GITHUB_TELEMETRY</h3>
       <br/>
+      <h3 align="center" style="color: #b026ff; font-family: monospace;">&gt; GITHUB_TELEMETRY</h3>
       <div align="center">
-        <table width="100%" style="border-collapse: collapse; border: none;">
-          <tr>
-            <td width="50%" align="center" style="padding: 10px;">
-              <a href="https://github.com/indrajitkumar23541-a11y">
-                <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="95%" alt="GitHub Stats"/>
-              </a>
-            </td>
-            <td width="50%" align="center" style="padding: 10px;">
-              <a href="https://github.com/indrajitkumar23541-a11y">
-                <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" width="95%" alt="Top Languages"/>
-              </a>
-            </td>
-          </tr>
-        </table>
+        <a href="https://github.com/indrajitkumar23541-a11y">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+        </a>
+        <br/>
+        <a href="https://github.com/indrajitkumar23541-a11y">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages"/>
+        </a>
       </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<div align="center">
-  <img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
-</div>
-<br/>
-
-<!-- ============================================== -->
-<!-- SECTION 3: DEPLOYED_ASSETS                     -->
-<!-- ============================================== -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1f2438; border-radius: 12px; background-color: #0a0e1c;">
-  <tr>
-    <td style="padding: 24px;">
-      <h2 align="center" style="color: #ffffff; font-family: monospace; letter-spacing: 2px; margin-bottom: 20px;">DEPLOYED_ASSETS</h2>
-      
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <!-- Project 1: KLYRO -->
-          <td width="33.33%" valign="top" style="padding: 10px;">
-            <div style="background: #111526; padding: 15px; border-radius: 8px; border: 1px solid #1f2438; height: 100%;">
-              <h4 style="color: #00f0ff; margin: 0 0 5px 0;">KLYRO</h4>
-              <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI-Powered Hybrid E-Commerce Platform</p>
-              <div align="center">
-                <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce">
-                  <img src="assets/projects/klyro.png" width="100%" alt="KLYRO Project" style="border-radius: 6px;"/>
-                </a>
-              </div>
-            </div>
-          </td>
-          
-          <!-- Project 2: Indra AI -->
-          <td width="33.33%" valign="top" style="padding: 10px;">
-            <div style="background: #111526; padding: 15px; border-radius: 8px; border: 1px solid #1f2438; height: 100%;">
-              <h4 style="color: #b026ff; margin: 0 0 5px 0;">Indra AI</h4>
-              <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Workflow Automation Platform</p>
-              <div align="center">
-                <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai">
-                  <img src="assets/projects/indra_ai.png" width="100%" alt="Indra AI Project" style="border-radius: 6px;"/>
-                </a>
-              </div>
-            </div>
-          </td>
-          
-          <!-- Project 3: Promptly AI -->
-          <td width="33.33%" valign="top" style="padding: 10px;">
-            <div style="background: #111526; padding: 15px; border-radius: 8px; border: 1px solid #1f2438; height: 100%;">
-              <h4 style="color: #ff4785; margin: 0 0 5px 0;">Promptly AI</h4>
-              <p style="color: #8b949e; font-size: 12px; margin: 0 0 10px 0;">AI Image Generation Studio</p>
-              <div align="center">
-                <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI">
-                  <img src="assets/projects/promptly_ai.png" width="100%" alt="Promptly AI Project" style="border-radius: 6px;"/>
-                </a>
-              </div>
-            </div>
-          </td>
-        </tr>
-      </table>
     </td>
   </tr>
 </table>
@@ -260,7 +207,7 @@
 <!-- BOTTOM SECTION: GRAPH & LEETCODE & TROPHIES    -->
 <!-- ============================================== -->
 <div align="center">
-  <h3 style="color: #00f0ff; font-family: monospace;">CODE_FREQUENCY_ANALYSIS</h3>
+  <h3 style="color: #00f0ff; font-family: monospace;">&gt; CODE_FREQUENCY_ANALYSIS</h3>
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/indrajitkumar23541-a11y">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajitkumar23541-a11y&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
@@ -268,7 +215,7 @@
 
   <br/><br/>
   
-  <h3 style="color: #ff4785; font-family: monospace;">LEETCODE_METRICS</h3>
+  <h3 style="color: #ff4785; font-family: monospace;">&gt; LEETCODE_METRICS</h3>
   <!-- LeetCode Stats -->
   <a href="https://leetcode.com/u/indrajitkumar23541/">
     <img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" width="100%" alt="LeetCode Stats"/>
@@ -276,14 +223,14 @@
   
   <br/><br/>
 
-  <h3 style="color: #b026ff; font-family: monospace;">SYSTEM_ACHIEVEMENTS</h3>
+  <h3 style="color: #b026ff; font-family: monospace;">&gt; SYSTEM_ACHIEVEMENTS</h3>
   <a href="https://github.com/indrajitkumar23541-a11y">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
 
-  <h3 style="color: #00f0ff; font-family: monospace;">NETWORK_CONTRIBUTIONS</h3>
+  <h3 style="color: #00f0ff; font-family: monospace;">&gt; NETWORK_CONTRIBUTIONS</h3>
   <!-- Snake Animation Placeholder (Generated via Action) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indrajitkumar23541-a11y/indrajitkumar23541-a11y/output/github-contribution-grid-snake-dark.svg">
@@ -293,7 +240,7 @@
 
   <br/><br/>
 
-  <h3 style="color: #ffffff; font-family: monospace;">DAILY_INSPIRATION</h3>
+  <h3 style="color: #ffffff; font-family: monospace;">&gt; DAILY_INSPIRATION</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day"/>
 
   <br/><br/>
