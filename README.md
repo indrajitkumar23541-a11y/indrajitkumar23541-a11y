@@ -24,7 +24,7 @@
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td width="60%" valign="top" style="padding: 18px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 18px; border: 1px solid #1a233a;">
 <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; margin: 0 0 10px 0;">
 Passionate <b>Software Engineer</b> specializing in scalable Full Stack applications, Artificial Intelligence, System Design, Cloud Technologies, and Product Development.
 </p>
@@ -38,7 +38,7 @@ I enjoy transforming innovative ideas into intelligent digital products using mo
 <img src="https://img.shields.io/badge/🎯_Builds_for_Impact-0d1117?style=flat-square&color=161b22&labelColor=0d1117" alt="Builds for Impact"/>
 </p>
 </td>
-<td width="40%" valign="middle" align="center" style="padding: 18px; border: 1px solid #1a233a; background-color: #0d1224;">
+<td width="50%" valign="middle" align="center" style="padding: 18px; border: 1px solid #1a233a; background-color: #0d1224;">
 <p style="color: #00f0ff; font-size: 26px; margin: 0; line-height: 1;">❝</p>
 <p style="color: #d1d7e0; font-style: italic; font-size: 13px; line-height: 1.6; margin: 8px 0 12px 0;">
 Technology is not just about code, it's about creating opportunities, solving real problems and making life better for people.
@@ -59,12 +59,12 @@ Technology is not just about code, it's about creating opportunities, solving re
 <!-- ============================================== -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<th colspan="3" align="left" style="background-color: #0a0e1c; color: #00f0ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+<th colspan="2" align="left" style="background-color: #0a0e1c; color: #00f0ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
 💠 Tech Stack
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #b026ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 ⚡ Languages
 </p>
@@ -75,7 +75,7 @@ Technology is not just about code, it's about creating opportunities, solving re
 <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00&color=161b22" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1&color=161b22" alt="SQL"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #00f0ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 🎨 Frontend
 </p>
@@ -86,7 +86,9 @@ Technology is not just about code, it's about creating opportunities, solving re
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26&color=161b22" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6&color=161b22" alt="CSS3"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #3ecf8e; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 ⚙️ Backend & APIs
 </p>
@@ -104,9 +106,7 @@ Technology is not just about code, it's about creating opportunities, solving re
 <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28&color=161b22" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E&color=161b22" alt="Supabase"/>
 </td>
-</tr>
-<tr style="background-color: #0a0e1c;">
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #ffaa00; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 🗄️ Databases & Storage
 </p>
@@ -118,7 +118,9 @@ Technology is not just about code, it's about creating opportunities, solving re
 <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D&color=161b22" alt="Redis"/>
 <img src="https://img.shields.io/badge/Prisma_ORM-0d1117?style=flat-square&logo=prisma&logoColor=white&color=161b22" alt="Prisma"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #b026ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 🤖 AI & Machine Learning
 </p>
@@ -136,7 +138,7 @@ Technology is not just about code, it's about creating opportunities, solving re
 <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00&color=161b22" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C&color=161b22" alt="PyTorch"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <p style="color: #00f0ff; font-size: 13px; font-weight: bold; margin: 0 0 10px 0; font-family: monospace;">
 🛠️ DevOps, Cloud & Tools
 </p>
@@ -165,12 +167,12 @@ Technology is not just about code, it's about creating opportunities, solving re
 <!-- ============================================== -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<th colspan="3" align="left" style="background-color: #0a0e1c; color: #00f0ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+<th colspan="2" align="left" style="background-color: #0a0e1c; color: #00f0ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
 🚀 Featured Projects
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <b style="color: #ffffff; font-size: 15px;">🛒 KLYRO</b><br/>
 <span style="color: #00f0ff; font-size: 11px; font-family: monospace;">E-Commerce Platform</span>
 <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 10px 0;">
@@ -186,7 +188,7 @@ The ultimate full-stack premium ecommerce platform. Cinematic design, multi-cate
 <a href="https://github.com/indrajitkumar23541-a11y/KLYRO--E-Commerce"><img src="https://img.shields.io/badge/💻_Source_Code-161b22?style=flat-square&color=1f2742" alt="Source Code"/></a>
 </p>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <b style="color: #ffffff; font-size: 15px;">🏥 PraGo</b><br/>
 <span style="color: #3ecf8e; font-size: 11px; font-family: monospace;">AI Medical Platform</span>
 <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 10px 0;">
@@ -202,7 +204,9 @@ All-in-one medical ecosystem featuring AI chat consultation, video appointments,
 <a href="https://github.com/indrajitkumar23541-a11y"><img src="https://img.shields.io/badge/💻_Source_Code-161b22?style=flat-square&color=1f2742" alt="Source Code"/></a>
 </p>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <b style="color: #ffffff; font-size: 15px;">📈 Indra-MarketMind</b><br/>
 <span style="color: #ffaa00; font-size: 11px; font-family: monospace;">Stock Sentiment Tracker</span>
 <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 10px 0;">
@@ -218,9 +222,7 @@ Real-time financial intelligence platform correlating live news sentiment with s
 <a href="https://github.com/indrajitkumar23541-a11y/Indra-MarketMind"><img src="https://img.shields.io/badge/💻_Source_Code-161b22?style=flat-square&color=1f2742" alt="Source Code"/></a>
 </p>
 </td>
-</tr>
-<tr style="background-color: #0a0e1c;">
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <b style="color: #ffffff; font-size: 15px;">🧠 Indra AI</b><br/>
 <span style="color: #b026ff; font-size: 11px; font-family: monospace;">AI Workflow Automation</span>
 <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 10px 0;">
@@ -236,7 +238,9 @@ Personal agentic AI assistant & open-source API layer providing RAG, web search,
 <a href="https://github.com/indrajitkumar23541-a11y/Indra-Ai"><img src="https://img.shields.io/badge/💻_Source_Code-161b22?style=flat-square&color=1f2742" alt="Source Code"/></a>
 </p>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <b style="color: #ffffff; font-size: 15px;">🎨 Promptly AI</b><br/>
 <span style="color: #ff4785; font-size: 11px; font-family: monospace;">AI Image Studio</span>
 <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 10px 0;">
@@ -252,7 +256,7 @@ Advanced web interface for generating AI images, text-to-image synthesis, image 
 <a href="https://github.com/indrajitkumar23541-a11y/Promptly-AI"><img src="https://img.shields.io/badge/💻_Source_Code-161b22?style=flat-square&color=1f2742" alt="Source Code"/></a>
 </p>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <b style="color: #ffffff; font-size: 15px;">📻 Yaadon Ki Duniya</b><br/>
 <span style="color: #00f0ff; font-size: 11px; font-family: monospace;">Nostalgic Experience</span>
 <p style="color: #8b949e; font-size: 12px; line-height: 1.5; margin: 10px 0;">
@@ -280,12 +284,12 @@ Immersive web journey reviving vintage Indian nostalgia through curated retro mu
 <!-- ============================================== -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<th colspan="3" align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+<th colspan="2" align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
 📦 Additional Repositories & Engineering Practice
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y/Disease-prediction" style="text-decoration: none;">
 <b style="color: #00f0ff; font-size: 14px;">🏥 Disease-prediction</b>
 </a>
@@ -294,7 +298,7 @@ Bayes' Theorem probability calculator estimating disease survival rates from med
 </p>
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&color=161b22" alt="Python"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y/mahalaxmi-hostel" style="text-decoration: none;">
 <b style="color: #3ecf8e; font-size: 14px;">🏢 mahalaxmi-hostel</b>
 </a>
@@ -303,7 +307,9 @@ Full-featured Hostel Management web application built with Django, role handling
 </p>
 <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&color=161b22" alt="Django"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y/deepak-governance" style="text-decoration: none;">
 <b style="color: #ffaa00; font-size: 14px;">🏛️ deepak-governance</b>
 </a>
@@ -312,9 +318,7 @@ Modern public governance information and civic services tracking interface.
 </p>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&color=161b22" alt="JavaScript"/>
 </td>
-</tr>
-<tr style="background-color: #0a0e1c;">
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y/DSA-In-C-" style="text-decoration: none;">
 <b style="color: #00f0ff; font-size: 14px;">⚡ DSA-In-C-</b>
 </a>
@@ -323,7 +327,9 @@ Optimized solutions, core data structures, and algorithmic problems implemented 
 </p>
 <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&color=161b22" alt="C++"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y/JAVA-DSA" style="text-decoration: none;">
 <b style="color: #b026ff; font-size: 14px;">☕ JAVA-DSA</b>
 </a>
@@ -332,7 +338,7 @@ Complete Java Data Structures & Algorithms practice code, trees, dynamic program
 </p>
 <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&color=161b22" alt="Java"/>
 </td>
-<td width="33.33%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
+<td width="50%" valign="top" style="padding: 16px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y/PYTHON" style="text-decoration: none;">
 <b style="color: #ff4785; font-size: 14px;">🐍 PYTHON</b>
 </a>
@@ -380,42 +386,44 @@ Python programming concepts, automation scripting modules, and foundational lear
 <!-- ============================================== -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<th colspan="4" align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+<th colspan="2" align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
 🏆 Achievements & Coding Metrics
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<td width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
 <span style="font-size: 20px;">⚡</span><br/>
 <b style="color: #ffaa00; font-size: 16px;">383+</b><br/>
-<span style="color: #c9d1d9; font-size: 12px;">LeetCode Problems</span>
+<span style="color: #c9d1d9; font-size: 12px;">LeetCode Problems Solved</span>
 </td>
-<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<td width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
 <span style="font-size: 20px;">📜</span><br/>
-<b style="color: #b026ff; font-size: 15px;">SWOC 2026</b><br/>
-<span style="color: #c9d1d9; font-size: 12px;">Contributor</span>
-</td>
-<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
-<span style="font-size: 20px;">🌐</span><br/>
-<b style="color: #3ecf8e; font-size: 15px;">Open Source</b><br/>
-<span style="color: #c9d1d9; font-size: 12px;">Active Contributor</span>
-</td>
-<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
-<span style="font-size: 20px;">🚀</span><br/>
-<b style="color: #00f0ff; font-size: 15px;">Product Builder</b><br/>
-<span style="color: #c9d1d9; font-size: 12px;">Building The Future</span>
+<b style="color: #b026ff; font-size: 16px;">SWOC 2026</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">Open Source Contributor</span>
 </td>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td colspan="2" width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; vertical-align: middle;">
-<a href="https://leetcode.com/u/indrajitkumar23541/">
-<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" width="100%" style="max-width: 100%; border-radius: 8px;"/>
-</a>
+<td width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<span style="font-size: 20px;">🌐</span><br/>
+<b style="color: #3ecf8e; font-size: 16px;">Open Source</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">Active Community Contributor</span>
 </td>
-<td colspan="2" width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; vertical-align: middle;">
-<a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://streak-stats.demolab.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="100%" style="max-width: 100%; border-radius: 8px;"/>
+<td width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<span style="font-size: 20px;">🚀</span><br/>
+<b style="color: #00f0ff; font-size: 16px;">Product Builder</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">Production AI & Full-Stack Apps</span>
+</td>
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td colspan="2" align="center" style="padding: 18px 10px; border: 1px solid #1a233a;">
+<p align="center" style="margin: 0;">
+<a href="https://leetcode.com/u/indrajitkumar23541/">
+<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" style="max-width: 100%; vertical-align: middle; margin: 6px;"/>
 </a>
+<a href="https://github.com/indrajitkumar23541-a11y">
+<img src="https://streak-stats.demolab.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" style="max-width: 100%; vertical-align: middle; margin: 6px;"/>
+</a>
+</p>
 </td>
 </tr>
 </table>
