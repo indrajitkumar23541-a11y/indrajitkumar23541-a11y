@@ -398,15 +398,15 @@ Python programming concepts, automation scripting modules, and foundational lear
 </td>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td colspan="4" align="center" style="padding: 20px 10px; border: 1px solid #1a233a;">
-<p align="center" style="margin: 0;">
+<td colspan="2" width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; vertical-align: middle;">
 <a href="https://leetcode.com/u/indrajitkumar23541/">
-<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" style="max-width: 100%; vertical-align: top; margin: 6px; border-radius: 8px;"/>
+<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" width="100%" style="max-width: 100%; border-radius: 8px;"/>
 </a>
+</td>
+<td colspan="2" width="50%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; vertical-align: middle;">
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%; vertical-align: top; margin: 6px; border-radius: 8px;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" style="max-width: 100%; border-radius: 8px;"/>
 </a>
-</p>
 </td>
 </tr>
 </table>
