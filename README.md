@@ -376,41 +376,37 @@ Python programming concepts, automation scripting modules, and foundational lear
 <!-- ============================================== -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<th align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+<th colspan="4" align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
 🏆 Achievements & Coding Metrics
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td style="padding: 18px; border: 1px solid #1a233a;">
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 18px;">
-<tr>
-<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">⚡</span><br/>
-<b style="color: #ffaa00; font-size: 15px;">383+</b><br/>
-<span style="color: #8b949e; font-size: 11px;">LeetCode</span>
+<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<span style="font-size: 20px;">⚡</span><br/>
+<b style="color: #ffaa00; font-size: 16px;">383+</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">LeetCode Problems</span>
 </td>
-<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">📜</span><br/>
-<b style="color: #b026ff; font-size: 14px;">SWOC 2026</b><br/>
-<span style="color: #8b949e; font-size: 11px;">Contributor</span>
+<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<span style="font-size: 20px;">📜</span><br/>
+<b style="color: #b026ff; font-size: 15px;">SWOC 2026</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">Contributor</span>
 </td>
-<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">🌐</span><br/>
-<b style="color: #3ecf8e; font-size: 14px;">Open Source</b><br/>
-<span style="color: #8b949e; font-size: 11px;">Active</span>
+<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<span style="font-size: 20px;">🌐</span><br/>
+<b style="color: #3ecf8e; font-size: 15px;">Open Source</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">Active Contributor</span>
 </td>
-<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">🚀</span><br/>
-<b style="color: #00f0ff; font-size: 14px;">Builder</b><br/>
-<span style="color: #8b949e; font-size: 11px;">Products</span>
+<td width="25%" align="center" style="padding: 16px 8px; border: 1px solid #1a233a; background-color: #0d1224;">
+<span style="font-size: 20px;">🚀</span><br/>
+<b style="color: #00f0ff; font-size: 15px;">Product Builder</b><br/>
+<span style="color: #c9d1d9; font-size: 12px;">Building The Future</span>
 </td>
 </tr>
-</table>
-<div align="center">
+<tr style="background-color: #0a0e1c;">
+<td colspan="4" align="center" style="padding: 20px; border: 1px solid #1a233a;">
 <a href="https://leetcode.com/u/indrajitkumar23541/">
 <img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" style="max-width: 100%; border-radius: 8px;"/>
 </a>
-</div>
 </td>
 </tr>
 </table>
