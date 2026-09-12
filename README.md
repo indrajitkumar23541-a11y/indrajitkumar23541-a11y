@@ -338,57 +338,73 @@ Python programming concepts, automation scripting modules, and foundational lear
 <br/>
 
 <!-- ============================================== -->
-<!-- SECTION 5: GITHUB STATS & ACHIEVEMENTS         -->
+<!-- SECTION 5: GITHUB TELEMETRY                    -->
 <!-- ============================================== -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<th width="50%" align="left" style="background-color: #0a0e1c; color: #00f0ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+<th align="left" style="background-color: #0a0e1c; color: #00f0ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
 📊 GitHub Telemetry
-</th>
-<th width="50%" align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
-🏆 Achievements & Metrics
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td width="50%" valign="top" align="center" style="padding: 18px; border: 1px solid #1a233a;">
+<td align="center" style="padding: 18px; border: 1px solid #1a233a;">
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;"/>
 </a>
 <br/><br/>
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 100%;"/>
 </a>
 <br/><br/>
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"/>
 </a>
 </td>
-<td width="50%" valign="top" style="padding: 18px; border: 1px solid #1a233a;">
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 16px;">
+</tr>
+</table>
+
+<br/>
+<div align="center">
+<img src="assets/dividers/neon-divider.svg" width="100%" alt="Divider"/>
+</div>
+<br/>
+
+<!-- ============================================== -->
+<!-- SECTION 6: ACHIEVEMENTS & METRICS              -->
+<!-- ============================================== -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1a233a;">
 <tr>
-<td width="50%" style="background-color: #0d1224; padding: 10px; border: 1px solid #1f2742;">
-<span style="font-size: 16px;">⚡</span> <b style="color: #ffaa00; font-size: 15px;">383+</b>
-<p style="color: #8b949e; font-size: 11px; margin: 3px 0 0 0;">LeetCode Problems</p>
+<th align="left" style="background-color: #0a0e1c; color: #b026ff; font-family: monospace; font-size: 16px; padding: 14px 18px; border: 1px solid #1a233a;">
+🏆 Achievements & Coding Metrics
+</th>
+</tr>
+<tr style="background-color: #0a0e1c;">
+<td style="padding: 18px; border: 1px solid #1a233a;">
+<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 18px;">
+<tr>
+<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">⚡</span> <b style="color: #ffaa00; font-size: 16px;">383+</b>
+<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">LeetCode Problems</p>
 </td>
-<td width="50%" style="background-color: #0d1224; padding: 10px; border: 1px solid #1f2742;">
-<span style="font-size: 16px;">📜</span> <b style="color: #b026ff; font-size: 14px;">SWOC 2026</b>
-<p style="color: #8b949e; font-size: 11px; margin: 3px 0 0 0;">Certificate</p>
+<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">📜</span> <b style="color: #b026ff; font-size: 15px;">SWOC 2026</b>
+<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Certificate of Appreciation</p>
 </td>
 </tr>
 <tr>
-<td width="50%" style="background-color: #0d1224; padding: 10px; border: 1px solid #1f2742;">
-<span style="font-size: 16px;">🌐</span> <b style="color: #3ecf8e; font-size: 14px;">Open Source</b>
-<p style="color: #8b949e; font-size: 11px; margin: 3px 0 0 0;">Active Contributor</p>
+<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">🌐</span> <b style="color: #3ecf8e; font-size: 14px;">Open Source</b>
+<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Active Contributor</p>
 </td>
-<td width="50%" style="background-color: #0d1224; padding: 10px; border: 1px solid #1f2742;">
-<span style="font-size: 16px;">🚀</span> <b style="color: #00f0ff; font-size: 14px;">Product Builder</b>
-<p style="color: #8b949e; font-size: 11px; margin: 3px 0 0 0;">Building The Future</p>
+<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">🚀</span> <b style="color: #00f0ff; font-size: 14px;">Product Builder</b>
+<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Building The Future</p>
 </td>
 </tr>
 </table>
 <div align="center">
 <a href="https://leetcode.com/u/indrajitkumar23541/">
-<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" width="100%" alt="LeetCode Card"/>
+<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" style="max-width: 100%; border-radius: 8px;"/>
 </a>
 </div>
 </td>
