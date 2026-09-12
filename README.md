@@ -347,18 +347,20 @@ Python programming concepts, automation scripting modules, and foundational lear
 </th>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td align="center" style="padding: 18px; border: 1px solid #1a233a;">
+<td align="center" style="padding: 18px 10px; border: 1px solid #1a233a;">
+<p align="center" style="margin: 0;">
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; vertical-align: top; margin: 4px;"/>
 </a>
-<br/><br/>
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 100%;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 100%; vertical-align: top; margin: 4px;"/>
 </a>
-<br/><br/>
+</p>
+<p align="center" style="margin: 12px 0 0 0;">
 <a href="https://github.com/indrajitkumar23541-a11y">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"/>
 </a>
+</p>
 </td>
 </tr>
 </table>
@@ -382,23 +384,25 @@ Python programming concepts, automation scripting modules, and foundational lear
 <td style="padding: 18px; border: 1px solid #1a233a;">
 <table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 18px;">
 <tr>
-<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">⚡</span> <b style="color: #ffaa00; font-size: 16px;">383+</b>
-<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">LeetCode Problems</p>
+<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">⚡</span><br/>
+<b style="color: #ffaa00; font-size: 15px;">383+</b><br/>
+<span style="color: #8b949e; font-size: 11px;">LeetCode</span>
 </td>
-<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">📜</span> <b style="color: #b026ff; font-size: 15px;">SWOC 2026</b>
-<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Certificate of Appreciation</p>
+<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">📜</span><br/>
+<b style="color: #b026ff; font-size: 14px;">SWOC 2026</b><br/>
+<span style="color: #8b949e; font-size: 11px;">Contributor</span>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">🌐</span> <b style="color: #3ecf8e; font-size: 14px;">Open Source</b>
-<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Active Contributor</p>
+<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">🌐</span><br/>
+<b style="color: #3ecf8e; font-size: 14px;">Open Source</b><br/>
+<span style="color: #8b949e; font-size: 11px;">Active</span>
 </td>
-<td width="50%" align="center" style="background-color: #0d1224; padding: 12px; border: 1px solid #1f2742;">
-<span style="font-size: 18px;">🚀</span> <b style="color: #00f0ff; font-size: 14px;">Product Builder</b>
-<p style="color: #8b949e; font-size: 12px; margin: 4px 0 0 0;">Building The Future</p>
+<td width="25%" align="center" style="background-color: #0d1224; padding: 12px 6px; border: 1px solid #1f2742;">
+<span style="font-size: 18px;">🚀</span><br/>
+<b style="color: #00f0ff; font-size: 14px;">Builder</b><br/>
+<span style="color: #8b949e; font-size: 11px;">Products</span>
 </td>
 </tr>
 </table>
