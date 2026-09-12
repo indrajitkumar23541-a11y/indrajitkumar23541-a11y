@@ -350,15 +350,10 @@ Python programming concepts, automation scripting modules, and foundational lear
 <td align="center" style="padding: 18px 10px; border: 1px solid #1a233a;">
 <p align="center" style="margin: 0;">
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; vertical-align: top; margin: 4px;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; vertical-align: top; margin: 6px;"/>
 </a>
 <a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 100%; vertical-align: top; margin: 4px;"/>
-</a>
-</p>
-<p align="center" style="margin: 12px 0 0 0;">
-<a href="https://github.com/indrajitkumar23541-a11y">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 100%; vertical-align: top; margin: 6px;"/>
 </a>
 </p>
 </td>
@@ -403,10 +398,15 @@ Python programming concepts, automation scripting modules, and foundational lear
 </td>
 </tr>
 <tr style="background-color: #0a0e1c;">
-<td colspan="4" align="center" style="padding: 20px; border: 1px solid #1a233a;">
+<td colspan="4" align="center" style="padding: 20px 10px; border: 1px solid #1a233a;">
+<p align="center" style="margin: 0;">
 <a href="https://leetcode.com/u/indrajitkumar23541/">
-<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" style="max-width: 100%; border-radius: 8px;"/>
+<img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Card" style="max-width: 100%; vertical-align: top; margin: 6px; border-radius: 8px;"/>
 </a>
+<a href="https://github.com/indrajitkumar23541-a11y">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=indrajitkumar23541-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%; vertical-align: top; margin: 6px; border-radius: 8px;"/>
+</a>
+</p>
 </td>
 </tr>
 </table>
