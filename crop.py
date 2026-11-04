@@ -36,6 +36,11 @@ def trim(im: Image.Image, fuzz: int = 10) -> Image.Image:
 
 
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help"):
+        print("Usage: python crop.py [input_image_path] [output_image_path]")
+        print("Trims uniform border colors from the target image.")
+        return 0
+
     script_dir = Path(__file__).resolve().parent
 
     # Determine input path: CLI argument > assets/banner2.png > assets/banner.png

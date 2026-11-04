@@ -57,6 +57,11 @@ def check_endpoint(url: str, timeout: int = 5) -> tuple[bool, str]:
 
 
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help"):
+        print("Usage: python check_api.py [url]")
+        print("Probes an API endpoint and checks its availability status.")
+        return 0
+
     url = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_URL
     print(f"Checking API: {url}")
     is_up, message = check_endpoint(url)

@@ -30,6 +30,11 @@ def trim_dark_borders(im: Image.Image, threshold: int = 15) -> Image.Image:
 
 
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help"):
+        print("Usage: python crop_black.py [image_path] [threshold] [output_path]")
+        print("Trims pure black/dark borders from the target image.")
+        return 0
+
     script_dir = Path(__file__).resolve().parent
 
     # Optional CLI arguments: python crop_black.py [image_path] [threshold] [output_path]

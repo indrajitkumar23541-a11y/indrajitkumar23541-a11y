@@ -62,6 +62,11 @@ def find_working_mirror(username: str) -> str | None:
 
 
 def main() -> int:
+    if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help"):
+        print("Usage: python find_mirror.py [username]")
+        print("Searches for a fast responsive github-readme-stats mirror.")
+        return 0
+
     username = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_USERNAME
     print(f"Searching for responsive github-readme-stats mirror for user: {username}")
 
